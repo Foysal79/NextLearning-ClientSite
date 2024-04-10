@@ -1,0 +1,14 @@
+/* Never.css */
+
+.navbar {
+    transition: background-color 0.3s ease; /* Smooth transition for background color change */
+  }
+  
+  .bg-transparent {
+    background-color: transparent;
+  }
+  
+  .bg-white {
+    background-color: white;
+  }
+  
